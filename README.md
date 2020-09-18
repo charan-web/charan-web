@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[twitter](https://twitter.com/CH_Charan_)
 - 😄 Pronouns: ...He,Myfriend,Bro,Dude...
 - ⚡ Fun fact: ...passion about Programming
-
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=charan-web&show_icons=true&theme=tokyonight" /></p>
